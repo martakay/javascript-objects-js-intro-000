@@ -1,1 +1,1 @@
-var playlist = { "artists": songs };
+var playlist = { "artists": [] };
